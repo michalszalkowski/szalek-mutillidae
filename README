@@ -1,0 +1,2 @@
+docker run -p 8081:80 -t szalek/mutillidae
+docker run -d -p 8081:80 -t szalek/mutillidae
